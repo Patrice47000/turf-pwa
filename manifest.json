@@ -1,20 +1,20 @@
 {
   "name": "Turf JeuSimple",
   "short_name": "Turf JeuSimple",
-  "start_url": "/turf-pwa/",
-  "scope": "/turf-pwa/",
+  "start_url": "https://www.turfjeusimple.fr/",
+  "scope": "https://www.turfjeusimple.fr/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0B8043",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "https://patrice47000.github.io/turf-pwa/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "https://patrice47000.github.io/turf-pwa/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
